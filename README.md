@@ -1,1 +1,1 @@
-Each row in this table addresses a specific attribute of the water bottle to verify its quality, functionality, and design as per the provided details. Status can be marked as Pass or Fail based on whether the Actual Result matches the Expected Result after testing.
+Each row in this table addresses a specific attribute of the water bottle to verify its quality, functionality and design as per the provided details. Status can be marked as Pass or Fail based on whether the Actual Result matches the Expected Result after testing.
